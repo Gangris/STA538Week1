@@ -34,3 +34,4 @@ length(rolls[rolls == 3]) / length(rolls)
 length(rolls[rolls >= 2]) / length(rolls)
 length(rolls[rolls <= 2 | rolls > 5]) / length(rolls)
 length(rolls[rolls > 1 & rolls <= 5]) / length(rolls)
+
